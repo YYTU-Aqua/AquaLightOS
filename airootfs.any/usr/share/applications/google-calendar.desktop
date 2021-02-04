@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Google Calendar
+Comment=Google Calendar
+Icon=/usr/share/icons/google/google-calender.png
+Exec=xdg-open https://calendar.google.com/calendar/
+Actions=
+Categories=Office;
+Path=
+Terminal=false
+StartupNotify=false

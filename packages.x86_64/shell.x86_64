@@ -1,0 +1,24 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+# Intaractive shell
+
+
+#-- lsd --#
+lsd
+lsd-control
+
+
+#-- Prompt --#
+powerline-go
+powerline
+
+
+#-- zsh --#
+zsh
+zsh-autosuggestions
+zsh-completions
+zsh-history-substring-search
+zsh-syntax-highlighting

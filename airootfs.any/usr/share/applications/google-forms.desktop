@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Google Forms
+Comment=Google Forms
+Icon=/usr/share/icons/google/google-forms.png
+Exec=xdg-open https://docs.google.com/forms/u/0/
+Actions=
+Categories=Office;
+Path=
+Terminal=false
+StartupNotify=false

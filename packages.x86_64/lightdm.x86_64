@@ -1,0 +1,13 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+# Display Manager
+
+
+lightdm
+lightdm-slick-greeter
+# lightdm-webkit2-greeter
+# lightdm-gtk-greeter
+# lightdm-settings

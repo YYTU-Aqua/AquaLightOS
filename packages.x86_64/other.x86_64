@@ -1,0 +1,51 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+
+
+#-- archiver --#
+xarchiver
+
+
+#-- GVFS --#
+smbclient
+gvfs
+gvfs-smb
+
+
+#-- boot manager --#
+# grub-theme-vimix-alter
+grub-theme-vimix
+
+
+#-- documents --#
+man-db
+man-pages
+
+
+#-- system monitor --#
+htop
+
+
+#-- printer --#
+system-config-printer
+
+
+#-- scripts --#
+alterlinux-gtk-bookmarks
+alterlinux-desktop-file
+
+
+#-- Qt config --#
+qt5ct
+
+
+#-- text editor --#
+nano
+vim
+
+
+#-- other --#
+# etcher-bin

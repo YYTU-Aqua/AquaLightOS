@@ -1,0 +1,20 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+# This package list will only be installed if the Japanese option is enabled.
+#
+# Japanese package
+
+# fcitx config
+alterlinux-fcitx-conf
+
+# fcitx
+fcitx
+fcitx-configtool
+fcitx-mozc
+fcitx-qt5
+
+# other
+man-pages-ja

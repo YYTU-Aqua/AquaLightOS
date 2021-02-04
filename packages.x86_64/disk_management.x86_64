@@ -1,0 +1,26 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+# Disk management
+
+
+baobab
+clonezilla
+ddrescue
+dmraid
+fsarchiver
+gnome-disk-utility
+gparted
+gptfdisk
+hdparm
+lvm2
+mdadm
+nvme-cli
+partclone
+parted
+partimage
+sdparm
+smartmontools
+testdisk

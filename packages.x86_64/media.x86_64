@@ -1,0 +1,25 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+# Media
+
+
+#-- audio --#
+pavucontrol
+pulseaudio
+
+
+#-- bluetooth --#
+blueman
+bluez
+bluez-utils
+
+
+#-- media player --#
+ristretto
+vlc
+
+#-- PDF viewer --#
+xreader

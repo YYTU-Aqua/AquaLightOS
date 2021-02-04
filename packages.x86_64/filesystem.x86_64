@@ -1,0 +1,11 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+# File System
+
+
+#-- mtp --#
+gvfs-mtp
+mtpfs

@@ -1,0 +1,19 @@
+#
+# Growth Linux package list
+#
+# Twitter: @hyuoou
+#
+# Internet
+
+
+#-- connection --#
+network-manager-applet
+
+
+#-- web browser --#
+chromium
+
+
+#-- security --#
+firewalld
+ufw

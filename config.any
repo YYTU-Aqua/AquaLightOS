@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+#
+#
+# config
+#
+# Overwrites the first to read and set the build script
+# This configuration file follows the bash syntax.
+#
+
+# OS name used for startup screen, etc.
+os_name="AquaLightOS"
+
+# OS name used for the name of the image file.
+iso_name=AquaLightOS-X1.9A
+
+# Image file label
+iso_label="AquaLightOS_$(date +%Y%m)"
+
+# Image file creator information
+iso_publisher="Yamada Hayao <hayao@fascode.net>"
+
+# Image file name (not file name)
+iso_application="AquaLightOS LiveCD"
+
+# Image file version
+iso_version=$(date +%Y.%m.%d)
+
+# Directory name used for installation
+install_dir=aqualightos
+
+# Set to true to enable plymouth.(-b)
+boot_splash=false
+
+# Set the live environment user name
+defaultusername="aqua"
+
+# Set the live environment user password
+defaultpassword='aqua'
+
+# Set the user's dafault shell.
+usershell="/bin/zsh"
+
+# Do not include the channel name in the filename of the image file.
+# This setting cannot be changed by an argument.
+nochname=true
