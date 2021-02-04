@@ -1,12 +1,12 @@
-GrowthLinux Xfce
-===========
+# AquaLightLinux
+AquaLightLinux is an OS derived from ArchLinux　It is made in Japan and can be used in Japanese environment and Japanese input by default.
+# How to use this source code
+You can use Alteriso to build it. Please clone this source code and add it to your Alteriso channel
+# Warning
+AquaLightLinux is currently under development. The use of AquaLightLinux is at your own risk, and we do not guarantee any damage caused by AquaLightLinux.
+This is still incomplete
+# The developer's Twitter account
+https://twitter.com/TEYUchan_dayo
+＃AquaLightOS
 
-Japanese:
-Xfceと便利なアプリケーションで構成されています。
-x86_64とi686に対応しています.
-チャンネル名は growth.add です。
 
-English:
-It consists of Xfce and useful applications.
-Supported x86_64 & i686.
-The channel-name is growth.add.
