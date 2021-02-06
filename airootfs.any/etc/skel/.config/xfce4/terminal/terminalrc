@@ -1,5 +1,4 @@
 [Configuration]
-BackgroundMode=TERMINAL_BACKGROUND_IMAGE
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
@@ -28,10 +27,12 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 BackgroundImageFile=/home/yytu/デスクトップ/dwdqadswqawdswsddws.jpg
-BackgroundImageShading=0.160000
-ColorBackground=#20204a4a8787
+BackgroundImageShading=0.180000
+ColorBackground=#24241f1f3131
 FontName=Noto Sans Glagolitic 10
 BackgroundImageStyle=TERMINAL_BACKGROUND_STYLE_STRETCHED
-ColorForeground=#c443fd93ffff
+ColorForeground=#fffffbe2bf24
 ColorCursorForeground=#eeeeeeeeecec
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+BackgroundDarkness=0.370000
 

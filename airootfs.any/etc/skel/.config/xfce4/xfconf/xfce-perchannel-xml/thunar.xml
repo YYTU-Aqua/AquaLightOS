@@ -8,7 +8,7 @@
   <property name="last-separator-position" type="int" value="212"/>
   <property name="last-window-width" type="int" value="952"/>
   <property name="last-window-height" type="int" value="885"/>
-  <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="last-window-maximized" type="bool" value="true"/>
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
 </channel>

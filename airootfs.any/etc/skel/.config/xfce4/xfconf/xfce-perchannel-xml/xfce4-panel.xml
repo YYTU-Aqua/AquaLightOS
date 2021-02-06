@@ -9,11 +9,11 @@
       <property name="autohide-behavior" type="uint" value="0"/>
       <property name="position" type="string" value="p=10;x=0;y=0"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="size" type="uint" value="50"/>
+      <property name="size" type="uint" value="41"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="15"/>
         <value type="int" value="16"/>
-        <value type="int" value="7"/>
+        <value type="int" value="1"/>
         <value type="int" value="17"/>
         <value type="int" value="21"/>
         <value type="int" value="24"/>
@@ -30,6 +30,7 @@
         <value type="double" value="0.930000"/>
         <value type="double" value="0.368243"/>
       </property>
+      <property name="nrows" type="uint" value="1"/>
     </property>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=96;y=25"/>
@@ -42,7 +43,7 @@
         <value type="double" value="0.000000"/>
       </property>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="autohide-behavior" type="uint" value="2"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
       <property name="length" type="uint" value="1"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="3"/>
@@ -81,6 +82,15 @@
       <property name="show-frame" type="bool" value="false"/>
       <property name="names-hidden" type="array">
       </property>
+      <property name="known-items" type="array">
+        <value type="string" value="Fcitx"/>
+      </property>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="networkmanager アプレット"/>
+      </property>
     </property>
     <property name="plugin-25" type="string" value="power-manager-plugin"/>
     <property name="clipman" type="empty">
@@ -89,5 +99,6 @@
       </property>
     </property>
     <property name="plugin-3" type="string" value="screenshooter"/>
+    <property name="plugin-1" type="string" value="docklike"/>
   </property>
 </channel>
