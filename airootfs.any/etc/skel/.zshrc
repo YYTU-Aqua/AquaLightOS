@@ -2,7 +2,7 @@
 # ~/.zshrc
 #
 #
-# Yamada Hayao 
+# Yamada Hayao
 # Twitter: @Hayao0819
 # Email  : hayao@fascode.net
 #
@@ -100,3 +100,4 @@ fi
 #-- Like fish prompt --#
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+setopt auto_cd

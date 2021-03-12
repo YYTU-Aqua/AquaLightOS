@@ -11,7 +11,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="org.kde.plasma.devicenotifier.svg">
   <metadata
      id="metadata10">
@@ -35,16 +35,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="22.737879"
-     inkscape:cy="84.819665"
+     inkscape:zoom="2.0370752"
+     inkscape:cx="-192.33328"
+     inkscape:cy="125.13734"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <style
@@ -634,12 +635,12 @@
      height="133.07344"
      width="6"
      id="rect6599"
-     style="color:#3daee9;fill:#483d8b;fill-opacity:1;stroke:none"
+     style="color:#3daee9;fill:#00aad4;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#474747;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#0078f1;fill-opacity:1;stroke:none"
      d="m 72.000004,147 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 L 127,153 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -54.999996,0 z m 0,61 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 l 104.597656,0 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -104.597656,0 z"
      id="rect6599-6" />
 </svg>

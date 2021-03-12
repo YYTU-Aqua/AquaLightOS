@@ -43,6 +43,7 @@ dconf update
 # Remove shortcut for alterlinux-welcome-page
 remove "/usr/share/alterlinux/desktop-file/welcome-to-alter.desktop"
 
+
 # Replace wallpaper.
 if [[ -f /usr/share/backgrounds/xfce/xfce-verticals.png ]]; then
     remove /usr/share/backgrounds/xfce/xfce-verticals.png
@@ -63,3 +64,7 @@ cp -f /usr/share/backgrounds/16-9.png /usr/share/lightdm-webkit/themes/alter/ima
 cp -f /usr/share/backgrounds/16-10.png /usr/share/lightdm-webkit/themes/alter/images/16-10.png
 cp -f /usr/share/backgrounds/os.png /usr/share/lightdm-webkit/themes/alter/images/Aqua_logo.png
 cp -f /usr/share/backgrounds/index.html /usr/share/lightdm-webkit/themes/alter/index.html
+
+# remove welcome
+rm /home/aqua/desktop/welcome-to-alter.desktop
+rm /etc/skel/desktop/welcome-to-alter.desktop

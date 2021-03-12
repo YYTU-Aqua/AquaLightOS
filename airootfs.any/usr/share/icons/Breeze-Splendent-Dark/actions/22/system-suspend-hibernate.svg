@@ -12,7 +12,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="system-suspend-hibernate.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -34,29 +34,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1007"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="21.174316"
-     inkscape:cx="0.3936882"
-     inkscape:cy="16"
+     inkscape:zoom="10.587158"
+     inkscape:cx="-3.5310366"
+     inkscape:cy="11.059355"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient820">
+       id="linearGradient844">
       <stop
-         style="stop-color:#8737ff;stop-opacity:1"
+         style="stop-color:#00ffff;stop-opacity:1"
          offset="0"
-         id="stop816" />
+         id="stop840" />
       <stop
-         style="stop-color:#0505ff;stop-opacity:1"
+         style="stop-color:#6262ff;stop-opacity:1"
          offset="1"
-         id="stop818" />
+         id="stop842" />
     </linearGradient>
     <style
        type="text/css"
@@ -67,19 +68,48 @@
       </style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient820"
-       id="linearGradient822"
-       x1="12.06759"
-       y1="19.847071"
-       x2="28.952772"
-       y2="4.1204705"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient844"
+       id="linearGradient1062"
+       x1="-178.10001"
+       y1="16.201357"
+       x2="-173.76666"
+       y2="16.201357"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92307589,0,0,0.92307589,175.65681,1.6643828)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient844"
+       id="linearGradient1070"
+       x1="-172.03333"
+       y1="16.201357"
+       x2="-167.7"
+       y2="16.201357"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92307589,0,0,0.92307589,175.65681,1.6643828)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient844"
+       id="linearGradient1054"
+       x1="-185.89999"
+       y1="16.200001"
+       x2="-159.89999"
+       y2="16.200001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92307589,0,0,0.92307589,175.65681,1.6643828)" />
   </defs>
-  <path
-     style="color:#eff0f1;fill:url(#linearGradient822);fill-opacity:1;stroke:none"
-     id="path891-3"
-     d="m 9.789062,5.244375 -0.867187,0.5 L 11.068,9.461 7.453125,8.392 7.195,9.559 11.575,10.685781 14.644,15.802 H 8.707031 L 5.353516,12.648672 4.646484,13.355703 7.292969,16.002187 H 3 v 1 H 7.292969 L 4.646484,19.648672 5.353516,20.355703 8.707031,17.202 H 14.644 l -3.069,5.116593 -4.379688,1.226563 0.257813,0.966797 3.615234,-0.96875 -2.146484,3.716797 0.867187,0.5 2.146485,-3.716797 0.96875,3.615234 0.964844,-0.259765 L 12.843,22.818593 16,17.402 l 3.157,5.616203 -1.026141,4.380469 0.964844,0.259765 0.96875,-3.615234 2.146485,3.716797 0.867187,-0.5 -2.146484,-3.716797 3.615234,0.96875 0.257813,-0.966797 L 20.224609,22.119 17.356,17.202 h 5.936969 l 3.353515,3.153703 0.707032,-0.707031 -2.646485,-2.646485 H 29 v -1 h -4.292969 l 2.007813,-2.001953 H 25.287109 L 23.292969,15.802 H 17.056 L 18.21,14 16.85,14.000234 15.9,15.5 12.843,10.186 13.969,5.605703 12.904297,5.345937 11.935547,8.961172 Z m 15.544275,1.286941 h 1.666666 V 7.375088 H 23.66667 L 25.333337,4.843772 H 23.666673 V 4 H 27 Z m -1.989669,5.624912 h 1.666665 V 13 H 21.677 l 1.666668,-2.531315 H 21.677003 V 9.624913 h 3.333326 z m -4.677,-3.374854 h 1.666665 V 9.625146 H 17 L 18.666668,7.09383 H 17.000003 V 6.250058 h 3.333327 z"
-     class="ColorScheme-Text"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <g
+     id="g896">
+    <path
+       d="m 13.257015,23.018203 a 2.0023979,2.0023979 0 0 1 -2.000002,-1.999995 v -8.799991 a 1.999998,1.999998 0 0 1 3.999991,0 v 8.799991 a 2.0023979,2.0023979 0 0 1 -1.999989,1.999995 z m 0,-11.999985 a 1.1999987,1.1999987 0 0 0 -1.2,1.199999 v 8.799991 a 1.1999995,1.1999995 0 0 0 2.399999,0 v -8.799991 a 1.1999987,1.1999987 0 0 0 -1.199999,-1.199999 z"
+       id="path8-53"
+       style="fill:url(#linearGradient1062);fill-opacity:1.0;stroke-width:0.399997" />
+    <path
+       d="m 18.857,23.018203 a 2.0023979,2.0023979 0 0 1 -1.999989,-1.999995 v -8.799991 a 1.999998,1.999998 0 0 1 3.999991,0 v 8.799991 A 2.0023979,2.0023979 0 0 1 18.857,23.018203 Z m 0,-11.999985 a 1.1999987,1.1999987 0 0 0 -1.199999,1.199999 v 8.799991 a 1.1999995,1.1999995 0 0 0 2.399999,0 v -8.799991 a 1.1999987,1.1999987 0 0 0 -1.2,-1.199999 z"
+       id="path10"
+       style="fill:url(#linearGradient1070);fill-opacity:1.0;stroke-width:0.399997" />
+    <path
+       d="m 16.056999,28.618199 c -2.324074,0 -4.57714,-0.663673 -6.519183,-1.922449 -0.281625,-0.181222 -0.36,-0.555912 -0.17877,-0.837547 0.181229,-0.279183 0.555919,-0.36 0.837554,-0.178775 1.743674,1.131429 3.768974,1.72898 5.860399,1.72898 5.948567,0 10.790195,-4.839183 10.790195,-10.790194 0,-5.948564 -4.839184,-10.7901916 -10.790195,-10.7901916 -5.948559,0 -10.790198,4.8416276 -10.790198,10.7901916 0,2.635098 0.96,5.172239 2.703676,7.143667 0.220408,0.249796 0.198366,0.631834 -0.05144,0.854688 -0.25225,0.220409 -0.634281,0.198371 -0.854695,-0.0539 C 5.124759,22.370836 4.057,19.547166 4.057,16.61819 c 0,-6.617135 5.382851,-11.9999859 11.999987,-11.9999859 6.617136,0 11.999984,5.3828509 11.999984,11.9999859 0,6.617137 -5.382848,11.999983 -11.999984,11.999983 z"
+       id="path6-36-3-3-3-3"
+       style="fill:url(#linearGradient1054);fill-opacity:1;stroke-width:0.0244901" />
+  </g>
 </svg>

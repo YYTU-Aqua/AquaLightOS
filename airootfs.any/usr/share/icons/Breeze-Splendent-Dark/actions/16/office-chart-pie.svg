@@ -12,7 +12,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="office-chart-pie.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -34,29 +34,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="1.9008434"
-     inkscape:cy="4.1078361"
+     inkscape:zoom="20.85965"
+     inkscape:cx="7.4059444"
+     inkscape:cy="9.6769813"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient827">
+       id="linearGradient906">
       <stop
-         style="stop-color:#f0f0f0;stop-opacity:1"
+         style="stop-color:#0090b2;stop-opacity:1"
          offset="0"
-         id="stop823" />
+         id="stop902" />
       <stop
-         style="stop-color:#483d8b;stop-opacity:1"
+         style="stop-color:#00d6d6;stop-opacity:1"
          offset="1"
-         id="stop825" />
+         id="stop904" />
     </linearGradient>
     <style
        type="text/css"
@@ -65,20 +66,37 @@
         color:#eff0f1;
       }
       </style>
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient827"
-       id="radialGradient817"
-       cx="8"
-       cy="8"
-       fx="8"
-       fy="8"
-       r="6"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient906"
+       id="linearGradient1094"
+       x1="97.982002"
+       y1="16.115999"
+       x2="123.982"
+       y2="16.115999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.53846121,0,0,0.53846121,-51.736473,-0.63535661)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient906"
+       id="linearGradient872-3"
+       x1="32.009319"
+       y1="28.016975"
+       x2="31.060434"
+       y2="2.9231923"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.20229351,-0.21672546,0,15.420484,1.5303603)" />
   </defs>
+  <g
+     data-name="Pie chart"
+     id="g8"
+     transform="matrix(0,0.23333283,-0.23333283,0,15.508722,0.61208959)" />
   <path
-     style="fill:url(#radialGradient817);fill-opacity:1;stroke:none"
-     d="M 8 2 A 6.0000019 6.0000148 0 0 0 2 8 A 6.0000019 6.0000148 0 0 0 8 14 A 6.0000019 6.0000148 0 0 0 14 8 A 6.0000019 6.0000148 0 0 0 8 2 z M 8 3 L 8 8 L 13 8 A 5 5 0 0 1 8 13 A 5 5 0 0 1 3 8 A 5 5 0 0 1 8 3 z "
-     class="ColorScheme-Text"
-     id="path4" />
+     d="m 8.023062,15.042476 c -1.355725,0 -2.670014,-0.387145 -3.802867,-1.121429 -0.164286,-0.105715 -0.209999,-0.324285 -0.104283,-0.488571 0.105725,-0.162856 0.324282,-0.21 0.488569,-0.104285 1.017154,0.659999 2.198574,1.00857 3.418581,1.00857 3.469988,0 6.294272,-2.822854 6.294272,-6.2942807 0,-3.4699949 -2.822853,-6.2942869 -6.294272,-6.2942869 -3.47001,0 -6.294294,2.824292 -6.294294,6.2942869 0,1.5371416 0.559999,3.0171407 1.577142,4.1671407 0.128568,0.145713 0.115712,0.36857 -0.03006,0.49857 C 3.128705,12.836763 2.905859,12.823905 2.777278,12.676751 1.64586,11.398179 1.023,9.7510375 1.023,8.0424678 c 0,-3.8600044 3.139991,-6.9999984 6.999997,-6.9999984 3.860006,0 6.999993,3.139994 6.999993,6.9999984 0,3.8599982 -3.139987,6.9999952 -6.999993,6.9999952 z"
+     id="path6-36"
+     style="fill:url(#linearGradient1094);fill-opacity:1;stroke-width:0.0142867" />
+  <path
+     d="m 13.38023,4.2006352 a 0.17077966,0.15940728 0 0 0 -0.02167,0.00407 0.21260769,0.19844993 0 0 0 -0.07456,0.044909 L 9.4154545,7.8605273 a 0.21672545,0.20229351 0 0 0 0,0.2860434 l 3.8685485,3.6109383 a 0.21260769,0.19844993 0 0 0 0.07456,0.04491 0.17077966,0.15940728 0 0 0 0.02166,0.004 0.21672545,0.20229351 0 0 0 0.06502,0.0091 c 0.0021,0 0.0041,0 0.006,0 a 0.20914007,0.19521323 0 0 0 0.02536,-0.0065 0.20350521,0.1899536 0 0 0 0.05245,-0.01376 0.20740627,0.19359489 0 0 0 0.0323,-0.02023 0.21477493,0.20047286 0 0 0 0.03012,-0.01881 c 0.0034,-0.003 0.0046,-0.0073 0.0077,-0.01072 0.0031,-0.0035 0.0072,-0.0042 0.0098,-0.0074 a 6.4972127,6.0645571 0 0 0 0,-7.4715072 c -0.0026,-0.00321 -0.007,-0.00468 -0.0098,-0.00746 -0.0028,-0.00286 -0.0041,-0.00772 -0.0077,-0.010725 a 0.21477493,0.20047286 0 0 0 -0.03012,-0.018813 0.20740627,0.19359489 0 0 0 -0.0323,-0.020226 0.20350521,0.1899536 0 0 0 -0.05245,-0.013759 0.20914007,0.19521323 0 0 0 -0.02536,-0.0065 c -0.0019,0 -0.0039,0 -0.006,0 a 0.21672545,0.20229351 0 0 0 -0.06502,0.011531 z m 1.173352,3.8031179 A 5.9911588,5.5922018 0 0 1 13.414473,11.307207 L 9.875348,8.0037531 13.414473,4.7003002 a 5.9911588,5.5922018 0 0 1 1.139109,3.3034529 z"
+     id="path6-5"
+     style="fill:url(#linearGradient872-3);fill-opacity:1.0;stroke-width:0.209385" />
 </svg>
